@@ -1,0 +1,22 @@
+# MATLAB / temporary files
+*.asv
+*.autosave
+*.m~
+*.slxc
+*.tmp
+
+# SolidWorks temp/backup files
+~$*
+*.sldprt~
+*.sldasm~
+*.slddrw~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large solver outputs - add selectively if needed
+*.vtk
+*.vtu
+*.plt
+*.szplt
